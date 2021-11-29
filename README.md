@@ -5,12 +5,12 @@
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li><a href="#overview">Overview</a></li>
-    <a href="#learning-goals">Learning Goals</a>
-    <a href="#file-structure">File Structure</a>
-    <a href="#setting-up-rspec">Setting up RSpec</a>
-    <a href="#the-interaction">The Interaction</a>
-    <a href="#writing-a-test">Writing a Test</a>
-    <a href="#Practice">Practice</a>
+    <li><a href="#learning-goals">Learning Goals</a></li>
+    <li><a href="#file-structure">File Structure</a></li>
+    <li><a href="#setting-up-rspec">Setting up RSpec</a></li>
+    <li><a href="#the-interaction">The Interaction</a></li>
+    <li><a href="#writing-a-test">Writing a Test</a></li>
+    <li><a href="#Practice">Practice</a></li>
   </ol>
 </details>
 
