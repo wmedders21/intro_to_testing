@@ -20,6 +20,11 @@ Test Driven Development is a powerful tool used to drive your code. At Turing, T
 RSpec is the testing framework that you will use during your time at Turing.
 This repository is used in conjunction with the `intro_to_testing` lesson and slides.
 
+We will work with the files in this order:
+ - `interaction/practice.md` to reference the interaction pattern used in lesson.
+ - `spec/student_spec.rb` to write tests first.
+ - `lib/student.rb` to implement the code that the tests expect.
+
 ## Learning Goals
 
 - Understand why we use tests
