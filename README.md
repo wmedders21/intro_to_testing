@@ -116,9 +116,8 @@ pry(main)> require './lib/student'
 => true
 ```
 
-Line 77:
-  - `pry(main)>` this is just referencing what you would see in a `pry` session.
-  - `require './lib/student'` is showing you what you would include at the top of your `student_spec.rb` file. This would go below the `require 'rspec'`.
+- `pry(main)>` this is just referencing what you would see in a `pry` session.
+- `require './lib/student'` is showing you what you would include at the top of your `student_spec.rb` file. This would go below the `require 'rspec'`.
   - `=>` is showing you what the return value of the `require './lib/student'`. This symbol will always reference what the expected return value is.
 
 <div class="back-to-top-wrapper">
