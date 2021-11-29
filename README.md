@@ -28,7 +28,7 @@ This repository is used in conjunction with the `intro_to_testing` lesson and sl
 - Use a variety of assertion methods
 
 <div class="back-to-top-wrapper">
-  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top" color: white>🔝</a>
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
 </div>
 
 ## File Structure
@@ -73,6 +73,10 @@ You will then use the following line of code at the top of each of your `spec` f
 require 'rspec'
 ```
 
+<div class="back-to-top-wrapper">
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+</div>
+
 ## The Interaction
 
 In Mod 1 you will learn how to read an interaction pattern. The interaction pattern is a guide for what tests you will be writing and what the expected return value should be. It is in your best interest to follow the interaction pattern as it is given to you and pay attention to the details.
@@ -112,6 +116,10 @@ Line 77:
   - `require './lib/student'` is showing you what you would include at the top of your `student_spec.rb` file. This would go below the `require 'rspec'`.
   - `=>` is showing you what the return value of the `require './lib/student'`. This symbol will always reference what the expected return value is.
 
+<div class="back-to-top-wrapper">
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+</div>
+
 ## Writing a Test
 
 1. We will working within our `spec` directory.
@@ -150,7 +158,15 @@ describe Student do
 end
 ```
 
+<div class="back-to-top-wrapper">
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+</div>
+
 ## Practice
 
 - [slides](https://docs.google.com/presentation/d/1_-xvHXsZRiGaA366VBc2kDwOH2opapZpAhkQzrdOVP4/edit?usp=sharing)
 - [lesson](https://backend.turing.edu/module1/lessons/intro_to_testing)
+
+<div class="back-to-top-wrapper">
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+</div>
