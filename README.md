@@ -4,7 +4,7 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <a href="#overview">Overview</a>
+    <li><a href="#overview">Overview</a></li>
     <a href="#learning-goals">Learning Goals</a>
     <a href="#file-structure">File Structure</a>
     <a href="#setting-up-rspec">Setting up RSpec</a>
