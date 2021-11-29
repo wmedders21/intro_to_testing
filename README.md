@@ -27,6 +27,10 @@ This repository is used in conjunction with the `intro_to_testing` lesson and sl
 - Understand an RSpec test
 - Use a variety of assertion methods
 
+<div class="back-to-top-wrapper">
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+</div>
+
 ## File Structure
 
 This is how your file tree will be structured.
