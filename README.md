@@ -28,7 +28,7 @@ This repository is used in conjunction with the `intro_to_testing` lesson and sl
 - Use a variety of assertion methods
 
 <div class="back-to-top-wrapper">
-  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top">🔝</a>
+  <a href="#top" class="back-to-top-link" aria-label="Scroll to Top" color="white">🔝</a>
 </div>
 
 ## File Structure
