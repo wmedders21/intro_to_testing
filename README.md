@@ -23,7 +23,7 @@ This repository is used in conjunction with the `intro_to_testing` lesson and sl
 You will need to `clone` this repository to your local. 
 
 We will work with the files in this order:
- - `interaction/practice.md` to reference the interaction pattern used in lesson.
+ - `interaction/example.md` to reference the interaction pattern used in lesson.
  - `spec/student_spec.rb` to write tests first.
  - `lib/student.rb` to implement the code that the tests expect.
 
